@@ -1,0 +1,98 @@
+[
+  {
+    "rollNo": "2300680100122",
+    "enrollmentNo": "230068010037130",
+    "fullName": "HARSH VERMA",
+    "fatherName": "RAJENDRA KUMAR",
+    "course": "B.TECH",
+    "branch": "COMPUTER SCIENCE AND ENGINEERING",
+    "SGPA": {
+      "sem1": 8.5,
+      "sem2": 9,
+      "sem3": 7.44
+    },
+    "CarryOvers": [
+      [
+        "No Backlogs"
+      ]
+    ],
+    "divison": "",
+    "cgpa": "",
+    "instituteName": "MEERUT INSTITUTE OF ENGINEERING & TECHNOLOGY,MEERUT",
+    "Subjects": [
+      {
+        "subject": "Laser System and Applications",
+        "code": "BOE312",
+        "type": "Theory",
+        "internal": "29",
+        "external": "33"
+      },
+      {
+        "subject": "Universal Human Values and Professional Ethics",
+        "code": "BVE301",
+        "type": "Theory",
+        "internal": "29",
+        "external": "30"
+      },
+      {
+        "subject": "Data Structure",
+        "code": "BCS301",
+        "type": "Theory",
+        "internal": "28",
+        "external": "37"
+      },
+      {
+        "subject": "Computer Organization and Architecture",
+        "code": "BCS302",
+        "type": "Theory",
+        "internal": "29",
+        "external": "29"
+      },
+      {
+        "subject": "Discrete Structures & Theory of Logic",
+        "code": "BCS303",
+        "type": "Theory",
+        "internal": "29",
+        "external": "46"
+      },
+      {
+        "subject": "Python programming",
+        "code": "BCC302",
+        "type": "Theory",
+        "internal": "30",
+        "external": "44"
+      },
+      {
+        "subject": "Data Structure Lab",
+        "code": "BCS351",
+        "type": "Practical",
+        "internal": "48",
+        "external": "49"
+      },
+      {
+        "subject": "Computer Organization and Architecture Lab",
+        "code": "BCS352",
+        "type": "Practical",
+        "internal": "46",
+        "external": "48"
+      },
+      {
+        "subject": "Web Designing Workshop",
+        "code": "BCS353",
+        "type": "Practical",
+        "internal": "48",
+        "external": "46"
+      },
+      {
+        "subject": "Internship Assessment /Mini Project",
+        "code": "BCC351",
+        "type": "Practical",
+        "internal": "89",
+        "external": ""
+      }
+    ],
+    "latestResultStatus": "",
+    "totalMarksObtained": 767,
+    "latestCOP": "COP :"
+  }
+]
